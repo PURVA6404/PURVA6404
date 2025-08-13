@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/0adc170b-5579-465f-b52e-ebb59e0dc20c" />
+
 **PURVA6404/PURVA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
