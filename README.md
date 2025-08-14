@@ -25,7 +25,7 @@ Tools & Cloud:  <code>Seaborn</code> <code>Matplotlib</code> <code>Docker</code>
 
 ### Projects
 
-- [NeuroBrain_UI]([https://github.com/PURVA6404/NeuroBrain_UI]) - Interactive web interface for visualizing results from the Brain Tumor Detection model 
+- [NeuroBrain_UI](https://github.com/PURVA6404/NeuroBrain_UI) - Interactive web interface for visualizing results from the Brain Tumor Detection model 
 - [Brain-Tumor-Detection](https://github.com/PURVA6404/Brain-Tumor-Detection) - Deep learning workflow for identifying brain tumors from MRI images.  
 - [E-Commerce-Dashboard](https://github.com/PURVA6404/E-Commerce-Dashboard) - Power BI dashboard analyzing e-commerce sales data for actionable business insights
 
